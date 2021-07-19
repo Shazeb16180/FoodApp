@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  padding: 1rem;
+  margin: 1rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+}
+ul {
+  list-style-type: none;
+  margin: 3rem;
+}
+.ls {
+  border: 1px solid black;
+  padding-left: 0rem;
+  margin: 1rem;
+  width: 80%;
+  background: bisque;
+}
+body {
+  background: cornsilk;
+}
+.name {
+  font-size: xx-large;
+}
+.rating {
+  font-size: smaller;
+}
